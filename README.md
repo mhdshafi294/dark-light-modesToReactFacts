@@ -1,4 +1,6 @@
-# co67e400ab58909ed74d2faf2
+# Darl light mode to React Facts Card
+
+A simple dark light toggle for a page in React.js
 
 Quick start:
 
